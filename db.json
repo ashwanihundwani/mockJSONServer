@@ -1,10 +1,10 @@
 {
-  "debitCard": {
-    "cardNumber": "7576-5722-6078-3344",
-    "holderName": "Ashwani Hundwani",
-    "expiry": "Nov-2022",
-    "cvv": "405",
-    "weeklySpentLimit": "5,000",
-    "availableBalance": "3,000"
-  }
+	"debitCard": {
+		"cardNumber": "7576-5722-6078-3344",
+		"holderName": "Ashwani Hundwani",
+		"expiry": "Nov-2022",
+		"cvv": "405",
+		"weeklySpentLimit": "5,000",
+		"availableBalance": "3,000"
+	}
 }
