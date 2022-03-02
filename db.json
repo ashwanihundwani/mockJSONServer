@@ -14,7 +14,7 @@
 		"expiry": "12/22",
 		"cvv": "405",
 		"balance": "3,000",
-		"weeklySpendLimit": "0"
+		"weeklySpendLimit": ""
   }
 }
 
